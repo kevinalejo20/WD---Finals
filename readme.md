@@ -2,13 +2,13 @@
 
 <div align="center">
   <a href="">
-    <img src="./assets/img/kev.png" alt="" width="130" height="100">
+    <img src="./assets/img/kevinalejo20.png" alt="" width="130" height="100">
   </a>
   <h3 align="center">My Portfolio</h3>
   <p align="center">
     A comprehensive portfolio website showcasing web development skills, projects, and professional experience.
   </p>
-  <h4 align="center">By:Kevin</h4>
+  <h4 align="center">By:kevinalejo20</h4>
 
   [![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
   <br />
@@ -86,7 +86,7 @@ WD-Finals
 
 | Title     | Purpose            | Link                                                           |
 |-----------|--------------------|----------------------------------------------------------------|
-| Portfolio | Live Portfolio Site | [View Site](https://watoshiiie0106.github.io/finals-portfolio/index.html) |
+| Portfolio | Live Portfolio Site | [View Site](https://kevinalejo20.github.io/WD---Finals/) |
 | GitHub    | My GitHub Profile  | [GitHub]https://github.com/kevinalejo20)                    |
 
 ---
